@@ -28,8 +28,8 @@ AI-written commentary.
 
 ## Dashboard
 
-![SaaS Overview](dashboard_overview.png)
-![Variance Analysis](dashboard_variance_analysis.png)
+![SaaS Overview](Dashboard_Overview.png)
+![Variance Analysis](Variance_Analysis.png)
 
 ## Tools
 MySQL, Python (pandas, SQLAlchemy), Power BI, OpenAI API
